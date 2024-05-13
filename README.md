@@ -8,5 +8,7 @@
   "Languages": ["C/C++", "Python", "Java/Kotlin (Basic Knowledge)", "GDScript", "HTML/CSS/JS", "PHP", "MySQL", "x_86 ASM (Basic Knowledge)"],
   "Tools": ["Git/Github", "CMake", "Godot Engine"],
   "Frameworks and Libraries": ["SFML/SDL2", "React", "Laravel (Basic Knowledge)", "Tkinter (Python)"]
+
+  "Notes": "Please Note that this github account doesn't show all of my work or any past experience. It for school purposes."
 }
 ```
