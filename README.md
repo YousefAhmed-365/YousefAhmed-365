@@ -14,7 +14,7 @@ int introduction(){
 
   string experiences[] = {"Web-development", "Game-development", "Low-Level Hardware-development"};
 
-  string languages[] = {"C/C++", "Python", "Java/Kotlin" (Basic Knowledge),
+  string languages[] = {"C/C++", "Python", "Java/Kotlin (Basic Knowledge)",
                         "HTML/CSS/JS", "PHP", "MySQL", "x_86 ASM (Basic Knowledge)"};
 
   string tools[] = {"Git/Github", "CMake"];
