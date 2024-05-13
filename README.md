@@ -9,6 +9,6 @@
   "Tools": ["Git/Github", "CMake", "Godot Engine"],
   "Frameworks and Libraries": ["SFML/SDL2", "React", "Laravel (Basic Knowledge)", "Tkinter (Python)"]
 
-  "Notes": "Please Note that this github account doesn't show all of my work or any past experience. It for school purposes."
+  "Notes": "Please Note that this github account doesn't show all of my work or any past experience. It was made for certain school purposes."
 }
 ```
